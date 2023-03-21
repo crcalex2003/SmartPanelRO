@@ -11415,7 +11415,7 @@ textarea.form-control {
   position: relative;
   height: 100vh;
   min-height: 500px;
-  background: url(/wallpaperflare.com_wallpaper.jpg) no-repeat center center fixed;
+  background: url(wallpaperflare.com_wallpaper.jpg) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
 }
@@ -11616,7 +11616,7 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(/wallpaperflare.com_wallpaper.jpg) no-repeat center top fixed;
+  background: url(wallpaperflare.com_wallpaper.jpg) no-repeat center top fixed;
   background-size: cover;
   color: #fff;
 }
